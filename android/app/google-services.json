@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "248024865261",
+    "project_id": "micromitti-68ea0",
+    "storage_bucket": "micromitti-68ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248024865261:android:120b2e0c521f7aa870afe4",
+        "android_client_info": {
+          "package_name": "com.example.micro_mitti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248024865261-6c6v7sfbgj1pg3aduh3esiileka1sj9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micro_mitti",
+            "certificate_hash": "ce8594125f7c9ccb4d2157353e68aa41109a52e5"
+          }
+        },
+        {
+          "client_id": "248024865261-mtcjlbre091ka6kpsqv5rcu2g41tfjns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micro_mitti",
+            "certificate_hash": "7ec965aa8ececfb793d31b1be5589c51f198a9b3"
+          }
+        },
+        {
+          "client_id": "248024865261-p6f8a6i3pf13j3cdoht4sgu7f7travq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micro_mitti",
+            "certificate_hash": "121e3d66be016b5b5ecdf14cb0d20199b616c505"
+          }
+        },
+        {
+          "client_id": "248024865261-h16q2h33eqfh3uul9mebj3lf354hrtof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9JALhu991nlYFaYUzLhR1wxWb8nsEIgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248024865261-9cg8bvmjev1udlj94i3qp7s0s8f00e23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248024865261-eft4dp61d4guqfpfbhn4q9l233af1kog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.microMitti.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248024865261:android:d22f74505c9f380870afe4",
+        "android_client_info": {
+          "package_name": "com.micromitti.micro_mitti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248024865261-9sakh6jv2sij0msgnvp31kqd5l2p74qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micromitti.micro_mitti",
+            "certificate_hash": "7ec965aa8ececfb793d31b1be5589c51f198a9b3"
+          }
+        },
+        {
+          "client_id": "248024865261-h16q2h33eqfh3uul9mebj3lf354hrtof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9JALhu991nlYFaYUzLhR1wxWb8nsEIgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248024865261-9cg8bvmjev1udlj94i3qp7s0s8f00e23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248024865261-eft4dp61d4guqfpfbhn4q9l233af1kog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.microMitti.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248024865261:android:ea4c8feb97d8b81770afe4",
+        "android_client_info": {
+          "package_name": "com.micromitti.micromitti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248024865261-qqqf8mhoffid7rvicjsioks541ia881f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micromitti.micromitti",
+            "certificate_hash": "7ec965aa8ececfb793d31b1be5589c51f198a9b3"
+          }
+        },
+        {
+          "client_id": "248024865261-h16q2h33eqfh3uul9mebj3lf354hrtof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9JALhu991nlYFaYUzLhR1wxWb8nsEIgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248024865261-9cg8bvmjev1udlj94i3qp7s0s8f00e23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248024865261-eft4dp61d4guqfpfbhn4q9l233af1kog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.microMitti.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

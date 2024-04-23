@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Micro Mitti</string>
+    <string name="facebook_app_id">412199708085733</string>
+    <string name="fb_login_protocol_scheme">fb412199708085733</string>
+    <string name="facebook_client_token">88c0bbbf19a493346d0dc9d126dd67f0</string>
+</resources>
